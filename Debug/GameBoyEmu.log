@@ -1,0 +1,86 @@
+﻿  Bus.cpp
+  CPU.cpp
+C:\Users\Andrea\Desktop\GameBoyEmu\src\CPU.cpp(706,5): warning C4552: '>>': risultato dell'espressione non usato
+C:\Users\Andrea\Desktop\GameBoyEmu\src\CPU.cpp(741,5): warning C4552: '<<': risultato dell'espressione non usato
+  PPU.cpp
+  main.cpp
+C:\Users\Andrea\Desktop\GameBoyEmu\src\olcPixelGameEngine.h(2167,44): warning C4244: 'argomento': conversione da 'T' a 'T'. Possibile perdita di dati.
+          with
+          [
+              T=int32_t
+          ]
+          and
+          [
+              T=float
+          ]
+C:\Users\Andrea\Desktop\GameBoyEmu\src\olcPixelGameEngine.h(2167,34): warning C4244: 'argomento': conversione da 'const T' a 'T'. Possibile perdita di dati.
+          with
+          [
+              T=int32_t
+          ]
+          and
+          [
+              T=float
+          ]
+C:\Users\Andrea\Desktop\GameBoyEmu\src\olcPixelGameEngine.h(2169,50): warning C4244: 'argomento': conversione da 'const T' a 'T'. Possibile perdita di dati.
+          with
+          [
+              T=int32_t
+          ]
+          and
+          [
+              T=float
+          ]
+C:\Users\Andrea\Desktop\GameBoyEmu\src\olcPixelGameEngine.h(2169,37): warning C4244: 'argomento': conversione da 'T' a 'T'. Possibile perdita di dati.
+          with
+          [
+              T=int32_t
+          ]
+          and
+          [
+              T=float
+          ]
+C:\Users\Andrea\Desktop\GameBoyEmu\src\olcPixelGameEngine.h(2272,44): warning C4244: 'argomento': conversione da 'T' a 'T'. Possibile perdita di dati.
+          with
+          [
+              T=int32_t
+          ]
+          and
+          [
+              T=float
+          ]
+C:\Users\Andrea\Desktop\GameBoyEmu\src\olcPixelGameEngine.h(2272,34): warning C4244: 'argomento': conversione da 'const T' a 'T'. Possibile perdita di dati.
+          with
+          [
+              T=int32_t
+          ]
+          and
+          [
+              T=float
+          ]
+C:\Users\Andrea\Desktop\GameBoyEmu\src\olcPixelGameEngine.h(2274,50): warning C4244: 'argomento': conversione da 'const T' a 'T'. Possibile perdita di dati.
+          with
+          [
+              T=int32_t
+          ]
+          and
+          [
+              T=float
+          ]
+C:\Users\Andrea\Desktop\GameBoyEmu\src\olcPixelGameEngine.h(2274,37): warning C4244: 'argomento': conversione da 'T' a 'T'. Possibile perdita di dati.
+          with
+          [
+              T=int32_t
+          ]
+          and
+          [
+              T=float
+          ]
+C:\Users\Andrea\Desktop\GameBoyEmu\src\main.cpp(24,22): warning C4244: '=': conversione da 'unsigned long' a 'uint8_t'. Possibile perdita di dati.
+C:\Users\Andrea\Desktop\GameBoyEmu\src\main.cpp(28,30): warning C4244: 'argomento': conversione da 'unsigned long' a '_Ty'. Possibile perdita di dati.
+          with
+          [
+              _Ty=uint8_t
+          ]
+  Generazione del codice in corso...
+  GameBoyEmu.vcxproj -> C:\Users\Andrea\Desktop\GameBoyEmu\Debug\GameBoyEmu.exe
